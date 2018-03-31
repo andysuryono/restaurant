@@ -17,9 +17,9 @@
 
 // Route::get('/create', function(){
 //    App\User::create([
-//        'name' => 'Ivan',
-//        'email' => 'iv.garin@gmail.com',
-//        'login' => 'admin',
+//        'name' => 'SomeName',
+//        'email' => 'some@mail',
+//        'login' => 'somelogin',
 //        'password' => bcrypt('SomePassword'),
 //    ]);
 // });
